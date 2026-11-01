@@ -1,5 +1,6 @@
-[Calculadora.py](https://github.com/user-attachments/files/34229014/Calculadora.py)
-def calculadora():
+#Calculadora feita em python
+###
+**def calculadora():
     print("1. Soma (+)")
     print("2. Subtração (-)")
     print("3. Multiplicação (*)")
@@ -24,4 +25,5 @@ def calculadora():
     else:
         print("Opção inválida!")
 
-calculadora()
+calculadora()**
+###
