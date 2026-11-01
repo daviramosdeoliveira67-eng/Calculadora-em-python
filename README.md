@@ -1,6 +1,5 @@
 #Calculadora feita em python
-###
-**def calculadora():
+def calculadora():
     print("1. Soma (+)")
     print("2. Subtração (-)")
     print("3. Multiplicação (*)")
@@ -24,6 +23,4 @@
             print("Erro: Divisão por zero!")
     else:
         print("Opção inválida!")
-
-calculadora()**
-###
+calculadora()
